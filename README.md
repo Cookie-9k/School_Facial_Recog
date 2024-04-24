@@ -17,5 +17,5 @@ IT Project for Capstone Subject in SHS Philippine Chen Kuang High School. This I
 ## Installing
 1. Clone the repository
 2. Navigate to the project directory
-3. Make sure the afforementioned prereqyusutes of the project are present and accessible
+3. Make sure the afforementioned prerequisites of the project are present and accessible
 4. To run the project for debugging/testing purposes, run main.py
